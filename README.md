@@ -10,7 +10,7 @@
 
 1.  **Скачайте установщик Anaconda:**
     ```
-    wget [https://repo.anaconda.com/archive/Anaconda3-latest-Linux-x86_64.sh](https://repo.anaconda.com/archive/Anaconda3-latest-Linux-x86_64.sh)
+    wget https://repo.anaconda.com/archive/Anaconda3-latest-Linux-x86_64.sh
     ```
 
 2.  **Запустите установщик:**
@@ -32,7 +32,7 @@
 Перейдите в директорию, где вы хотите разместить проект, и клонируйте его:
 
 ```
-git clone [https://github.com/d1scob4ll/jokes_apart.git](hhttps://github.com/d1scob4ll/jokes_apart.git)
+git clone https://github.com/d1scob4ll/jokes_apart.git
 
 cd jokes_apart
 ```
